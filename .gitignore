@@ -1,1 +1,5 @@
 workspace
+*.txt
+*.json
+*.csv
+*.gz
